@@ -26,13 +26,13 @@
 
 <h3>Les messages d'erreur</h3>
 <ul>
-<li>"La largeur du labyrinthe n'est pas correcte à la ligne <i>line</i> dans le fichier <i>fileName</i></li>
-<li>"La hauteur du labyrinthe n'est pas correcte à la ligne <i>line</i> dans le fichier <i>fileName"</li>
-<li>"Il n'y a aucune case d'arrivée. Il faut une case d'arrivée ('A') à la ligne <i>line</i> dans le fichier <i>fileName"</li>
-<li>"Il n'y a aucune case de départ. Il faut une case de départ ('D') à la ligne <i>line</i> dans le fichier <i>fileName"</li>
-<li>"Il y a trop de cases d'arrivée. Il faut une seule case d'arrivée à la ligne <i>line</i> dans le fichier <i>fileName"</li>
-<li>"Il y a trop de cases de départ. Il faut une seule case de départ à la ligne <i>line</i> dans le fichier <i>fileName"</li>
-<li>"La case n'est pas du bon type. Doit être 'E', 'W', 'D' ou 'A' à la ligne <i>line</i> dans le fichier <i>fileName"</li>
+<li>"La largeur du labyrinthe n'est pas correcte à la ligne <i>line</i> dans le fichier <i>fileName</i>"</li>
+<li>"La hauteur du labyrinthe n'est pas correcte à la ligne <i>line</i> dans le fichier <i>fileName</i>"</li>
+<li>"Il n'y a aucune case d'arrivée. Il faut une case d'arrivée ('A') à la ligne <i>line</i> dans le fichier <i>fileName</i>"</li>
+<li>"Il n'y a aucune case de départ. Il faut une case de départ ('D') à la ligne <i>line</i> dans le fichier <i>fileName</i>"</li>
+<li>"Il y a trop de cases d'arrivée. Il faut une seule case d'arrivée à la ligne <i>line</i> dans le fichier <i>fileName</i>"</li>
+<li>"Il y a trop de cases de départ. Il faut une seule case de départ à la ligne <i>line</i> dans le fichier <i>fileName</i>"</li>
+<li>"La case n'est pas du bon type. Doit être 'E', 'W', 'D' ou 'A' à la ligne <i>line</i> dans le fichier <i>fileName</i>"</li>
 <li>"Il n'y a pas de chemin entre la case d'arrivée et la case de départ"</li>
 </ul>
 
